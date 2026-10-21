@@ -122,7 +122,6 @@ public:
             out << ":";
         }
         out << "|";
-        
     }
     void Load() {
         ifstream in("VagonsDatabase.txt", ios_base::in);
