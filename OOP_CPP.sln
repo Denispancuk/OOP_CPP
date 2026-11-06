@@ -45,6 +45,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_PracticeWork", "09_Pract
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_singlelist", "12_singlelist\12_singlelist.vcxproj", "{FE42E2EA-1BA1-4206-97FB-7AFBA5118C8C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_DoubleLinkedList", "13_DoubleLinkedList\13_DoubleLinkedList.vcxproj", "{5FE728DB-292A-40F2-8252-4D19147EB8BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_Practice_Work", "13_Practice_Work\13_Practice_Work.vcxproj", "{59F6E320-30BB-4F70-9E39-D032FA65E2CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +225,22 @@ Global
 		{FE42E2EA-1BA1-4206-97FB-7AFBA5118C8C}.Release|x64.Build.0 = Release|x64
 		{FE42E2EA-1BA1-4206-97FB-7AFBA5118C8C}.Release|x86.ActiveCfg = Release|Win32
 		{FE42E2EA-1BA1-4206-97FB-7AFBA5118C8C}.Release|x86.Build.0 = Release|Win32
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Debug|x64.ActiveCfg = Debug|x64
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Debug|x64.Build.0 = Debug|x64
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Debug|x86.Build.0 = Debug|Win32
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Release|x64.ActiveCfg = Release|x64
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Release|x64.Build.0 = Release|x64
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Release|x86.ActiveCfg = Release|Win32
+		{5FE728DB-292A-40F2-8252-4D19147EB8BA}.Release|x86.Build.0 = Release|Win32
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Debug|x64.ActiveCfg = Debug|x64
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Debug|x64.Build.0 = Debug|x64
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Debug|x86.Build.0 = Debug|Win32
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Release|x64.ActiveCfg = Release|x64
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Release|x64.Build.0 = Release|x64
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Release|x86.ActiveCfg = Release|Win32
+		{59F6E320-30BB-4F70-9E39-D032FA65E2CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
